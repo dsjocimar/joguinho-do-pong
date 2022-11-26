@@ -1,2 +1,3 @@
 # joguinho do pong
- Joguinho do pong usando JS
+ Iniciando os estudos de JS, recriei o Joguinho do pong.
+ 
